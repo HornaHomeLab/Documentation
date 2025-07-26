@@ -1,4 +1,12 @@
 # Documentation
+
 Repository to store documentation related to Home Lab.
 
-[Documentation/wiki](https://github.com/HornaHomeLab/Documentation/wiki)
+## Table of Contents
+
+- [Docker](/Docker/)
+- [GitHub](/GitHub/)
+- [HashiCorp Vault](/HashiCorp_Vault/)
+- [K8s](/K8s/)
+- [Synology](/Synology/)
+- [Virtual Machines](/Virtual_Machines/)
